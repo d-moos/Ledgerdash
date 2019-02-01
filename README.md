@@ -1,6 +1,6 @@
 # Ledgerdash
-A portfolio asset management platform for digital currencies.
-The live-version has been officialy discontinued by 1th of February 2019. 
+A portfolio asset management platform for digital currencies.  
+The live-version has been officially discontinued by 1th of February 2019. 
 
 
 
