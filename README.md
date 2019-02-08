@@ -15,3 +15,8 @@ A portfolio asset management platform for digital currencies.
 The whole project was hosted in a k8 cluster on Google Cloud.
 
 **For any inquiries please contact** [daniel.moos@outlook.com](mailto:daniel.moos@outlook.com)
+
+
+
+## Landing Page
+![](https://i.imgur.com/SVvO8LM.jpg)
